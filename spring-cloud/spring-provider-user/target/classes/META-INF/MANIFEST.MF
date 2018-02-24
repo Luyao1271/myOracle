@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: spring-provider-user
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: yangheng
+Built-By: Administrator
 Implementation-Vendor-Id: com.yeah
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_91
 Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
  starter-parent/spring-cloud/spring-provider-user/
 Created-By: Maven Integration for Eclipse
