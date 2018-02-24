@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-eureka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yangheng
+Implementation-Vendor-Id: com.yeah
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/spring-cloud/spring-eureka-server/
+Created-By: Maven Integration for Eclipse
+
